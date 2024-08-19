@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/',
+  outDir: '../dist',
   cleanUrls:true,
   appearance: 'dark', // 主题颜色
   lang: 'zh-CN',

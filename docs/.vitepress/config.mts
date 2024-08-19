@@ -9,7 +9,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: "Old_Six",
   description: "知行合一",
-  titleTemplate: '6',
+  titleTemplate: '66',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.jpg',

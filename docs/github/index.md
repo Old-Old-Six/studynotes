@@ -12,6 +12,7 @@
 配置结束
 
 ## 2.项目添加配置
+
 项目根目录创建文件 '.github\workflows\main.yml'，文件内容为：
 ```
 name: gogogo
@@ -43,5 +44,6 @@ jobs:
           folder: dist # 这里填打包好的目录名称
 
 ```
+注意：需要打包后的文件夹在根目录下，即dist文件在根目录下
 
 参考地址：https://github.com/Old-Old-Six/studynotes

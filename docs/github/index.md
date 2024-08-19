@@ -5,9 +5,9 @@
 ## 1.github配置
 * 创建一个新的分支，用来放置打包后的代码，我创建的新分支名称为 “view”
 * settings->actions->general->Workflow permissions 修改工作流权限
-![](/github/action_setting.png)
+![](/github/action_setting.jpg)
 * settings->Pages->Build and deployment 选择‘view’分支，然后选择root
-![](/github/page_select.png)
+![](/github/page_select.jpg)
 
 配置结束
 
@@ -45,5 +45,6 @@ jobs:
 
 ```
 注意：需要打包后的文件夹在根目录下，即dist文件在根目录下
+![](/github/mulu.jpg)
 
 参考地址：https://github.com/Old-Old-Six/studynotes

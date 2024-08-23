@@ -54,10 +54,13 @@ export default defineConfig({
 				collapsed: false,
 				items: [{ text: "起源", link: "/css/" }],
 			},
-      {
+			{
 				text: "猎奇",
 				collapsed: false,
-				items: [{ text: "github探索之Action", link: "/github/" }],
+				items: [
+					{ text: "github探索之Action", link: "/github/" },
+					{ text: "vuejs源码调试", link: "/github/vue-debug" },
+				],
 			},
 		],
 

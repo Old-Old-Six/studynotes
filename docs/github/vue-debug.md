@@ -17,7 +17,7 @@ npm run dev
 
 ![](/github/vue-dubug-mulu.png)
 
-## 2.创建study/myVue.vue文件
+## 2.创建study/myVue.vue文件，添加代码，用浏览器直接打开
 ```
 <script src="../../dist/vue.global.js"></script>
 

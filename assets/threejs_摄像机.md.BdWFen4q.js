@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.Dxea9bgL.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"threejs/摄像机.md","filePath":"threejs/摄像机.md"}'),a={name:"threejs/摄像机.md"};function s(o,c,n,_,p,d){return r(),t("div")}const f=e(a,[["render",s]]);export{m as __pageData,f as default};
